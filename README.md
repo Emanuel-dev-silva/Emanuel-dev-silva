@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, sou o Emanuel! 👋
 
-<!--
-**Emanuel-dev-silva/Emanuel-dev-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Ciência da Computação | Entusiasta de Sistemas Automotivos
 
-Here are some ideas to get you started:
+Sou um entusiasta da intersecção entre software e hardware automotivo. Focado em transformar a complexidade das redes veiculares em soluções robustas e eficientes. Meu objetivo é aplicar o conhecimento de Ciência da Computação para inovar na engenharia e diagnóstico automotivo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Resolvendo problemas reais todos os dias, com foco em desenvolvimento de sistemas e diagnóstico veicular. 💻"
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+Minhas competências estão divididas em áreas de estudo e paixão:
+
+### 1. Embedded & Desenvolvimento de Software
+
+| Linguagem / Tecnologia | Foco |
+| :--- | :--- |
+| **C** | **Análise de código e Engenharia Reversa (Desassembly) de processadores ST10 e TriCore.** |
+| **Kotlin** | Desenvolvimento de aplicações Mobile (Android) e ferramentas de diagnóstico. |
+| **Git / GitHub** | Controle de versão e colaboração em projetos de software. |
+
+### 2. Paixão e Estudo Automotivo
+
+| Tecnologia / Área | Foco |
+| :--- | :--- |
+| **Redes Veiculares (CAN, LIN, etc.)** | **Diagnóstico avançado e leitura/interpretação de pacotes trafegados na rede veicular em tempo real.** |
+| **Reparo de ECM** | Análise, diagnóstico e reparo de Módulos de Comando do Motor (ECMs). |
+| **Análise de Arquivos de ECM** | Foco em estudar a estrutura de arquivos binários utilizados em otimização de performance (Remap). |
+
+---
+
+## 💡 Meus Projetos em Destaque
+
+Aqui listo meus projetos públicos e áreas de estudo ativas:
+
+* **CirculAPP** (Monitoramento UFRPE)
+    * Um aplicativo desenvolvido em **Kotlin** que permite o monitoramento em tempo real do sistema de transporte circular da UFRPE.
+* **Diagnóstico e Análise de Redes CAN**
+    * **Estudos e ferramentas para realizar a leitura e interpretação de dados da rede CAN, focando na identificação de falhas e padrões de comunicação.**
+* **Engenharia Reversa de Processadores**
+    * Experiência prática na desmontagem e análise de código de processadores **ST10 e TriCore** usados em Módulos de Comando (ECMs).
+
+---
+
+## 🔗 Conecte-se Comigo
+
+* **LinkedIn:** https://www.linkedin.com/in/emanuel-barbosa-68611a61/
+* **Email:** emanuelbarbosa.silva@gmail.com
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Emanuel-dev-silva&label=Visualizações&color=007F66&style=flat" alt="Número de visualizações no perfil" />
+</p>
