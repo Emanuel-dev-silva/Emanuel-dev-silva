@@ -29,20 +29,18 @@ Minhas competências estão divididas em áreas de estudo e paixão:
 | **Análise de Arquivos de ECM** | Foco em estudar a estrutura de arquivos binários utilizados em otimização de performance (Remap). |
 
 ---
-
 ## 💡 Meus Projetos em Destaque
 
 Aqui listo meus projetos públicos e áreas de estudo ativas:
 
 * **CirculAPP** (Monitoramento UFRPE)
     * Um aplicativo desenvolvido em **Kotlin** que permite o monitoramento em tempo real do sistema de transporte circular da UFRPE.
-* **Diagnóstico e Análise de Redes CAN**
-    * **Estudos e ferramentas para realizar a leitura e interpretação de dados da rede CAN, focando na identificação de falhas e padrões de comunicação.**
-* **Engenharia Reversa de Processadores**
-    * Experiência prática na desmontagem e análise de código de processadores **ST10 e TriCore** usados em Módulos de Comando (ECMs).
+* **Engenharia Reversa de Sistemas Embarcados**
+    * Experiência em **desassembly e análise de código** de processadores automotivos (**ST10** e **TriCore**). Foco na compreensão de como **linguagens formais** são interpretadas pela arquitetura do processador e na lógica de controle da ECM.
 * **Análise de Binários e Decompiladores**
-    * Estudos sobre a estrutura de **compiladores e decompiladores**. Pesquisa aplicada sobre a **reconstrução lógica do código-fonte** a partir de binários de ECMs para auditoria e desenvolvimento.
-
+    * Estudos sobre a estrutura de **compiladores e decompiladores**. Pesquisa aplicada sobre a **reconstrução lógica do código-fonte** a partir de binários de ECMs para auditoria e desenvolvimento.
+* **Diagnóstico e Análise de Redes CAN**
+    * Estudos e ferramentas para realizar a leitura e interpretação de dados da rede CAN, focando na identificação de falhas e padrões de comunicação.
 ---
 
 ## 🔗 Conecte-se Comigo
