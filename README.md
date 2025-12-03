@@ -2,9 +2,9 @@
 
 ### Estudante de Ciência da Computação | Entusiasta de Sistemas Automotivos
 
-Sou um entusiasta da intersecção entre software e hardware automotivo. Focado em transformar a complexidade das redes veiculares em soluções robustas e eficientes. Meu objetivo é aplicar o conhecimento de Ciência da Computação para inovar na engenharia e diagnóstico automotivo.
+Sou um entusiasta da intersecção entre software e hardware automotivo. Meu objetivo é aplicar o conhecimento de Ciência da Computação para inovar na engenharia e diagnóstico automotivo.
 
-> "Resolvendo problemas reais todos os dias, com foco em desenvolvimento de sistemas e diagnóstico veicular. 💻"
+> "Resolvendo problemas reais todos os dias, com foco em diagnóstico veicular. 💻"
 
 ---
 
@@ -40,6 +40,8 @@ Aqui listo meus projetos públicos e áreas de estudo ativas:
     * **Estudos e ferramentas para realizar a leitura e interpretação de dados da rede CAN, focando na identificação de falhas e padrões de comunicação.**
 * **Engenharia Reversa de Processadores**
     * Experiência prática na desmontagem e análise de código de processadores **ST10 e TriCore** usados em Módulos de Comando (ECMs).
+* **Análise de Binários e Decompiladores**
+    * Estudos sobre a estrutura de **compiladores e decompiladores**. Pesquisa aplicada sobre a **reconstrução lógica do código-fonte** a partir de binários de ECMs para auditoria e desenvolvimento.
 
 ---
 
